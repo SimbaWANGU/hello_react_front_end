@@ -1,27 +1,39 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
-# Hello React Front End
-
-> Create a React front-end with a Rails back-end and connect them to display a random greeting message.
+<a name="readme-top"></a>
 
 
-## Built With
+<div align="center">
 
-- React
-- Redux
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
 
-## Link to back end
-[link](https://github.com/SimbaWANGU/hello-rails-back-end)
+</div>
+
+# 📖 Hello React Front End <a name="about-project"></a>
+
+**Hello React Front End** is a React front-end that displays data from a Rails back-end and connects them to display a random greeting message....
+
+The link to the Backend is [here](https://github.com/SimbaWANGU/hello-rails-back-end)
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://redux.js.org/">Redux</a></li>
+  </ul>
+</details>
+
+<!-- Features -->
 
 
-## Getting Started
+<!-- GETTING STARTED -->
 
-To get a local copy up and running follow these simple example steps.
+## 💻 Getting Started <a name="getting-started"></a>
 
-### Prerequisites
-
-- Web browser --> Microsoft edge, Chrome
-- Code editor --> VS Code
+To get a local copy up and running, follow these steps.
 
 ### Setup
 
@@ -44,7 +56,9 @@ run: `npm run build`
 run: `npm start`
 
 
-## Authors
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
 
 👤 **Simba WANGU**
 
@@ -53,16 +67,27 @@ run: `npm start`
 - LinkedIn: [Simba Wangulu](https://linkedin.com/in/simba-wangulu/)
 
 
-## 🤝 Contributing
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/braincee/hello-react-front-end/issues).
+Feel free to check the [issues page](https://github.com/SimbaWANGU/hello-react-front-end/issues).
 
-## Show your support
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 - Hat tip to code reviewers and to everyone who reviewed the project and made suggestions.
+
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
